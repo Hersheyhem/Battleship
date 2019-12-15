@@ -39,7 +39,7 @@
       "fields": {
         "title": "fridge",
         "price": 88.99,
-        "image": { "fields": { "file": {  "url": "https://github.com/Hersheyhem/Battleship/blob/master/src/bship/images/product-4.jpeg?raw=true" } } }
+        "image": { "fields": { "file": {  "url": "https://github.com/Hersheyhem/Battleship/blob/master/src/bship/images/product-5.jpeg?raw=true" } } }
       }
     },
     {
